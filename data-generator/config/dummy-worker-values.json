@@ -1,0 +1,210 @@
+{
+	"genderCode": [
+		"M",
+		"F",
+		"O"
+	],
+	"nameTypeCode": [
+		"PRI",
+		"PRF"
+	],
+	"maritalStatus": [
+		"SINGLE",
+		"MARRIED",
+		"WIDOWED",
+		"DIVORCED",
+		"OTHER"
+	],
+	"addressTypeCode": [
+		"BUSN",
+		"HOME"
+	],
+	"citizenshipStatusCode": [{
+		"NATIVE": [
+			"Native"
+		]
+	}],
+	"emailAddress": [
+		"donotuse@test.com",
+		"test@test.com"
+	],
+	"emailUsageCode": [
+		"BUSN"
+	],
+	"booleanValue": [
+		true,
+		false
+	],
+	"explicitPopulationInclusionCode": [
+		"DEFAULT"
+	],
+	"firstName": [
+		"Astrid",
+		"Anuj",
+		"Bill",
+		"Gaurav",
+		"Ruchika",
+		"Samir",
+		"Ravi"
+	],
+	"lastName": [
+		"Heinze",
+		"Gupta",
+		"Verma",
+		"Kumar"
+	],
+	"country": [{
+			"countryCode": "DEU",
+			"countryName": "Germany",
+			"currency": "EUR",
+			"state": [{
+					"stateCode": "HE",
+					"stateName": "Hesse",
+					"address": [{
+						"cityName": "Frankfrut",
+						"postalCode": "60325",
+						"address": "Taunusanlage 12"
+					}]
+				},
+				{
+					"stateCode": "HH",
+					"stateName": "Hamburg",
+					"address": [{
+						"cityName": "Marmstorf",
+						"postalCode": "60325",
+						"address": "Taunusanlage 15"
+					}]
+				}
+			]
+		},
+
+
+		{
+			"countryCode": "USA",
+			"countryName": "United States",
+			"currency": "USD",
+			"state": [{
+
+				"stateCode": "CA",
+				"stateName": "California",
+				"address": [{
+					"cityName": "Sacramento",
+					"postalCode": "94203",
+					"address": "12th South"
+				}]
+			}]
+		},
+		{
+			"countryCode": "IN",
+			"countryName": "India",
+			"currency": "INR",
+			"state": [{
+
+				"stateCode": "KA",
+				"stateName": "Karnataka",
+				"address": [{
+					"cityName": "Bangalore",
+					"postalCode": "560037",
+					"address": "5th Main"
+				}]
+			}]
+		},
+		{
+			"countryCode": "UK",
+			"countryName": "United States",
+			"currency": "GBP",
+			"state": [{
+
+				"stateCode": "GB-SCT",
+				"stateName": "Scotland",
+				"address": [{
+					"cityName": "Glasgow",
+					"postalCode": "42141",
+					"address": "5th Main"
+				}]
+			}]
+		}
+	],
+	"personIdentificationDocumentType": [
+		"NATIONALITYID"
+	],
+	"jobEmployeeTypeCode": [
+		"EMP"
+	],
+	"businessTitle": [
+		"Analytics Analyst",
+		"Senior Associate"
+	],
+	"workerTypeCode": [
+		"A",
+		"B"
+	],
+	"timeTypeCode": [
+		"FULL_TIME"
+	],
+	"scheduledWeeklyHours": [
+		"40",
+		"50"
+	],
+	"payRateTypeCode": [
+		"SALARY"
+	],
+	"eventClassificationCode": [
+		"DATA_CHANGE"
+	],
+	"eventClassificationSubcategoryCode": [
+		"DATA_CHANGE_MISCELLANEOUS"
+	],
+	"jobEmploymentRelationshipSubTypeCode": [
+		"PERMANENT_LOCAL_STAFF"
+	],
+	"psHRStatusCode": [
+		"A"
+	],
+	"psActionCode": [
+		"DTA"
+	],
+	"psActionReasonCode": [
+		"MSC"
+	],
+	"companyOrganizationIdentifier": [
+		"0010"
+	],
+	"accessTypeOrganizationIdentifier": [
+		"ACCESS_TYPE_00_GENERAL_EMPLOYEE"
+	],
+	"compensationPackageIdentifier": [
+		"Compensation (not legally binding)"
+	],
+	"compensationGradeIdentifier": [
+		"UMH","UMG"
+	],
+	"gradeSourceIdentifier": [
+		"COMPENSATION_GRADE-4-1"
+	],
+	"gradeName": [
+		"DB Requisition Grade Placeholder"
+	],
+	"compensationGradeProfileIdentifier": [
+		"COMPENSATION_GRADE_PROFILE-4-1"
+	],
+	"minimumPayRange": [
+		"0"
+	],
+	"maximumPayRange": [
+		"1000000"
+	],
+	"basePaymentPlanName": [
+		"FPBASE"
+	],
+	"basePaymentPlanFrequencyCode": [
+		"ANNUAL"
+	],
+	"sourceName": [
+		"WORKDAY"
+	],
+	"posId": [
+		"POS_03",
+		""
+	]
+}
